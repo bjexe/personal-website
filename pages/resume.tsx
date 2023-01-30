@@ -23,7 +23,7 @@ export default function Resume() {
             <Link href='/projects' className={`flex items-center justify-center hover:font-bold`}>Projects</Link>
             <Link href='/resume' className={`flex rounded-lg items-center justify-center hover:font-bold w-32 h-12 bg-gray-200 text-black`}>Resume</Link>
           </nav>
-          <object data="/simms_resume.pdf" type="application/pdf" width="100%" height="100%"/>
+          <object data="/simms_resume_purged.pdf" type="application/pdf" width="100%" height="100%"/>
         </div>
       </main>
     </>

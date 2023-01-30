@@ -37,7 +37,7 @@ export default function Home() {
               <div className="w-2/3">
                 <p className="flex justify-center items-center text-center font-firacode text-xl mx-40">
                   I am a UCF computer engineering alumnus with a passion for technology. 
-                  I am seeking a role where I can develop technical and personal skills and apply the skills I&apos;ve obtained pursuing my degree.
+                  I am seeking a role where I can develop skills associated with writing software and apply the skills I&apos;ve obtained pursuing my degree.
                 </p>
               </div>
             </div>
